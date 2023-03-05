@@ -15,11 +15,13 @@
 }
 .header-container {
   font-family: "Inter", sans-serif;
-
   text-align: center;
   display: block;
   margin-bottom: 10px;
+  width: 695px;
+  height: 326px;
 }
+
 .header-heading {
   font-weight: 700;
   font-size: 65px;
@@ -86,6 +88,17 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.today-tk-para1{
+  width: 135px;
+  height: 123px;
+  background: #FFEEEE;
+  border-radius: 5px;
+  color: #FF5959;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px s;
 }
 .tk {
   font-weight: 700;
